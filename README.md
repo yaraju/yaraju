@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yaraju
-- 👀 I’m interested in Full Stack Development, Cloud Engineering and DevOps workflow.
-- 🌱 I’m currently learning Laravel, VueJS and Material Design.
+- 👀 I’m proficient in Agentic Engineering, Full Stack Development, Cloud Engineering and DevOps workflow.
+- 🌱 I’m currently learning Kotlin Multiplatform and Koog AI, and Godot.
 - 💞️ I’m looking to collaborate on 
 - :fist: I'm seeking to actively foster an open, welcoming and inclusive environment.
 - 📫 You can reach me at ... yaraju@gmail.com
